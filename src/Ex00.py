@@ -46,4 +46,25 @@ list11 = [1,2,3]
 list11[1] = 22
 #print(list11)
 
-##
+##in##
+list12 = [1,2,3]
+#print(2 in list12)
+
+##len##
+list12 = [1,2,3]
+#print(len(list12))
+
+##sort##
+list13 = [3,1,2]
+list13.sort()
+#print(list13)
+
+##sorted##
+list14 = [3,1,2]
+list15 = sorted(list14)
+#print(list14)
+#print(list15)
+
+##sum##
+
+
