@@ -9,7 +9,7 @@ public class Ex10798 {
         String[][] arr = new String[5][];
         int max = 0;
 
-        /
+
         for(int i=0; i<5; i++){
             //배열에 값 초기화
             arr[i] = sc.nextLine().split("");
